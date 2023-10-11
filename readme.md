@@ -2,7 +2,7 @@
 
 ## Live Website
 
-- [Link](https://harsh-sangwan2003.github.io/relaxer-app/)
+- [Link](https://harsh-sangwan2003.github.io/form-validator/)
 
 A quick guide to my Project ->
 
